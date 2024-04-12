@@ -2,8 +2,9 @@
 
     Collection of React Hooks
 
-###  - [ ] useTitle
-### - [ ] useInput
+### - [✅] useTitle
+### - [✅] useInput
+### - [✅] useTabs
 ### - [ ] usePageLeave
 ### - [ ] useClick
 ### - [ ] useFadeIn
@@ -12,7 +13,6 @@
 ### - [ ] useNetwork
 ### - [ ] useNotification
 ### - [ ] useScroll
-### - [ ] useTabs
 ### - [ ] usePreventLeave
 ### - [ ] useConfirm
 ### - [ ] useAxios
