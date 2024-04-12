@@ -8,11 +8,11 @@
 ### - [✅] useConfirm
 ### - [✅] useClick
 ### - [✅] useHover
+### - [✅] usePreventLeave
 ### - [ ] useFadeIn
 ### - [ ] useFullScreen
 ### - [ ] useNetwork
 ### - [ ] useNotification
 ### - [ ] useScroll
-### - [ ] usePreventLeave
 ### - [ ] usePageLeave
 ### - [ ] useAxios
