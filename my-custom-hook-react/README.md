@@ -5,14 +5,14 @@
 ### - [✅] useTitle
 ### - [✅] useInput
 ### - [✅] useTabs
-### - [ ] usePageLeave
-### - [ ] useClick
+### - [✅] useConfirm
+### - [✅] useClick
+### - [✅] useHover
 ### - [ ] useFadeIn
 ### - [ ] useFullScreen
-### - [ ] useHover
 ### - [ ] useNetwork
 ### - [ ] useNotification
 ### - [ ] useScroll
 ### - [ ] usePreventLeave
-### - [ ] useConfirm
+### - [ ] usePageLeave
 ### - [ ] useAxios
